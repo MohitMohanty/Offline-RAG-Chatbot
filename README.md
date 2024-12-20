@@ -13,3 +13,6 @@ It also store the conversion in memeory for a conversational results.
 
 
 
+** i downloaded the model from huggingface - llama2 13b chat gguf model **
+
+** and used FAISS for finding similiar context from the docs. **
